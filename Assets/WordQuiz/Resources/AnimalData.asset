@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 51a4c89da483baf4ba8a103d93ca3653, type: 3}
+    answer: chicken
+  - questionImage: {fileID: 21300000, guid: 3dd500e276cfc3d47a2a216ec0584cb8, type: 3}
+    answer: cow
+  - questionImage: {fileID: 21300000, guid: e474894fb636e8c4ebc89aa4f706e19f, type: 3}
+    answer: goat
+  - questionImage: {fileID: 21300000, guid: 966ea922df38b49429b8ba48d355bee4, type: 3}
+    answer: monkey
+  - questionImage: {fileID: 21300000, guid: 87556388ee1850643b44b406536b3ab6, type: 3}
+    answer: moose
+  - questionImage: {fileID: 21300000, guid: 5881fd4251b8faf4ba3ae09a918df3c9, type: 3}
+    answer: pig
+  - questionImage: {fileID: 21300000, guid: 8ce0dac6ddfefe848b9da6582d549bdc, type: 3}
+    answer: rabbit
